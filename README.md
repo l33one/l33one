@@ -6,4 +6,4 @@
 ## I am Database Administrator | Development student.
 
 
-![Thomaz github stats](https://github-readme-stats.vercel.app/api?username=l33one)
+![L33one github stats](https://github-readme-stats.vercel.app/api?username=l33one)
