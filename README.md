@@ -4,7 +4,7 @@
 
 
 
-## I am Database Administrator | Development student.
+## I am IT infrastructure Coordinator | Development student.
 
 
 ![L33one github stats](https://github-readme-stats.vercel.app/api?username=l33one)
